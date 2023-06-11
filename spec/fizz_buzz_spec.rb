@@ -1,5 +1,5 @@
-RSpec.disable "FizzBuzz" do
-  disable "fizz_buzz" do
+RSpec.describe "FizzBuzz" do
+  describe "fizz_buzz" do
     
   end
 end
