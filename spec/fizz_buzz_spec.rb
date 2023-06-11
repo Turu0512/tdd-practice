@@ -1,3 +1,5 @@
+require 'fizz_buzz'
+
 RSpec.describe "FizzBuzz" do
   describe "fizz_buzz" do
     it "1を渡すと、'1'を返す" do
